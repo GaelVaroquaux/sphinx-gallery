@@ -82,6 +82,10 @@ blockquote.sphx-glr-script-out+p {
     margin-top: 1.8em;
 }
 
+blockquote.sphx-glr-script-out {
+    margin-left: 0pt;
+}
+
 div.sphx-glr-download {
     padding: 1ex;
     margin: 1em auto 1ex auto;
